@@ -1,3 +1,0 @@
-bb
-master
-testing
